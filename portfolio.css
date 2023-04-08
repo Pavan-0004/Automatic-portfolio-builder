@@ -1,0 +1,362 @@
+.hi-im-lastname,
+.menu-navbar {
+  position: absolute;
+}
+.menu-navbar {
+  top: 16px;
+  left: 822px;
+  width: 625px;
+}
+.hi-im-lastname {
+  top: 0;
+  left: 0;
+  
+  letter-spacing: 1px;
+  line-height: 72px;
+  font-weight: 700;
+  background: linear-gradient(134.01deg, #3bf686 50.52%, #4ca9ff 89.58%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 1029px;
+  
+}
+.hero-text-section {
+  position: absolute;
+  top: 250px;
+  left: 150px;
+  width: 1029px;
+  height: 216px;
+  font-size: var(--heading-h2-size);
+  font-family: var(--heading-h4);
+}
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 160px;
+}
+.naufaldi-logo {
+  position: absolute;
+  top: 52px;
+  left: 151px;
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  line-height: 30px;
+  font-family: var(--font-poppins);
+}
+.home,
+.portfolio {
+  position: absolute;
+  top: 26px;
+  left: 1040.5px;
+  letter-spacing: 1px;
+  line-height: 80.5px;
+  font-weight: 600;
+  text-align: right;
+}
+.portfolio {
+  left: 1153.5px;
+  color: #d1d1d1;
+}
+.border-bottom-navbar {
+  position: absolute;
+  top: 126.5px;
+  left: 149.5px;
+  border-top: 1px solid #4d4d4d;
+  box-sizing: border-box;
+  width: 1141px;
+  height: 1px;
+}
+.hero-text-section-parent,
+.navbar-section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 466px;
+}
+.navbar-section {
+  width: 1447px;
+}
+.lets-connect,
+.lets-connect-section {
+  position: absolute;
+  top: 0;
+  width: 230.24px;
+  height: 84.43px;
+}
+.lets-connect {
+  left: 0;
+  letter-spacing: 1px;
+  line-height: 72px;
+  display: inline-block;
+}
+.lets-connect-section {
+  left: 683.7px;
+}
+.hi-iam-firstname {
+ 
+  margin-block-end: 2px;
+}
+.workplace-and-in {
+  margin: 0;
+}
+.description-body,
+.hi-iam-firstname-container {
+  position: absolute;
+  width: 625.19px;
+  height: 90.57px;
+}
+.hi-iam-firstname-container {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 38px;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.description-body {
+  top: 84.43px;
+  left: 1.17px;
+  font-size: var(--body-normal-size);
+  color: #d6d6d6;
+  font-family: var(--body-normal);
+}
+.biography {
+  letter-spacing: 1px;
+  line-height: 72px;
+  display: inline-block;
+}
+.bio-title,
+.biography,
+.biography-section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 184.66px;
+  height: 84.43px;
+}
+.biography-section {
+  left: 222.06px;
+  width: 913.94px;
+  height: 197px;
+}
+.avatar-child,
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 181.15px;
+  height: 181.76px;
+}
+.image-1-icon {
+  top: 18.18px;
+  left: 18.12px;
+  width: 144.92px;
+  height: 145.4px;
+  object-fit: cover;
+}
+.avatar,
+.bio-section {
+  position: absolute;
+  top: 7.04px;
+  left: 0;
+  width: 181.15px;
+  height: 181.76px;
+}
+.bio-section {
+  top: 0;
+  width: 1136px;
+  height: 197px;
+}
+.group-child {
+  top: 62px;
+  left: 910px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 197px;
+  height: 71px;
+}
+.group-child,
+.logo-2-icon,
+.logo-container {
+  position: absolute;
+}
+.logo-container {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.logo-2-icon {
+  height: 54.61%;
+  width: 54.64%;
+  top: 22.7%;
+  right: 22.68%;
+  bottom: 22.7%;
+  left: 22.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-instagram {
+  text-decoration: none;
+  position: absolute;
+  top: 69px;
+  left: 910px;
+  width: 63px;
+  height: 62px;
+}
+.bio-section-parent {
+  position: absolute;
+  top: 621px;
+  left: 159px;
+  width: 1136px;
+  height: 197px;
+  font-size: var(--heading-h4-size);
+  color: var(--color-gray-100);
+  font-family: var(--heading-h4);
+}
+.image-1048-icon {
+  position: absolute;
+  top: 632px;
+  left: 164px;
+  border-radius: 112.5px;
+  width: 172px;
+  height: 174px;
+  object-fit: cover;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 66.72%;
+  width: 69.81%;
+  top: 16.97%;
+  right: 15.65%;
+  bottom: 16.31%;
+  left: 14.54%;
+}
+.logo-12 {
+  text-decoration: none;
+  position: absolute;
+  height: 2.71%;
+  width: 2.64%;
+  top: 49.89%;
+  right: 12.92%;
+  bottom: 47.4%;
+  left: 84.44%;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 55px;
+  height: 47px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 74.01%;
+  width: 72.73%;
+  top: 14.89%;
+  right: 12.73%;
+  bottom: 11.1%;
+  left: 14.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 695px;
+  left: 1140px;
+  width: 55px;
+  height: 47px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.homepage-desktop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1b1f23;
+  width: 2500px;
+  height: 1403px;
+  overflow: hidden;
+}
+.my-skills-are,
+.what-im-interested {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.what-im-interested {
+  top: 0;
+  letter-spacing: 1px;
+  line-height: 72px;
+  width: 389px;
+}
+.my-skills-are {
+  top: 74px;
+  font-size: var(--body-normal-size);
+  letter-spacing: 0.01em;
+  line-height: 32px;
+  font-family: var(--body-normal);
+  color: #ffffff;
+  width: 458px;
+}
+.image-1047-icon {
+  position: absolute;
+}
+.what-i-do-section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 458px;
+  height: 106px;
+}
+.image-1047-icon {
+  top: 6px;
+  left: 552px;
+  width: 658px;
+  height: 172px;
+  object-fit: cover;
+  
+}
+.what-i-do-section-parent {
+  position: absolute;
+  top: 1032px;
+  left: 177px;
+  width: 1210px;
+  height: 178px;
+  font-size: var(--heading-h4-size);
+  font-family: var(--heading-h4);
+}
+.desktop-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1403px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--body-normal);
+}
